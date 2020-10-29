@@ -44,3 +44,19 @@ Description: 针对平安金管家、平安健康的步数修改以及去广告�
 Author: ZhiHua Shen
 Name: MyPingAnSteps
 
+Package: netskao.ntspeed
+Version: 0.2~beta7-1
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 320
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/netskao.ntspeed_0.2~beta7-1_iphoneos-arm.deb
+Size: 43520
+MD5sum: 55e3053357c1a13405e4d0b9a4135a20
+SHA1: 63700d0235140ba215181da87c3c01cd00e9eb88
+SHA256: 36ed8a0076eaa80d7761dc98433b699908a143a34e24044cedbfb682acd6dbf3
+Section: Netskao-插件
+Description: NtSpeed实时网络悬浮窗，简体中文汉化版，详情看预览图
+Author: julioverne
+Name: NtSpeed
+
