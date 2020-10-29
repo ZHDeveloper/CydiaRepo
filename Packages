@@ -1,0 +1,30 @@
+Package: com.zhihua.AppsNoAd
+Version: 0.1-1
+Architecture: iphoneos-arm
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: debs/com.zhihua.AppsNoAd_0.1-1_iphoneos-arm.deb
+Size: 34228
+MD5sum: b1718ecf898e3563db77c6126cc0c7f9
+SHA1: ececf93f4bb309f0e0f23eab1f11d05fb08fbe8a
+SHA256: 7403bdb2742750b09a4ab6e584bc8063ad5f3e7248f7a8e48b67470e95529884
+Section: System
+Priority: optional
+Description: 破解会员：酷我音乐、番茄小说、贝瓦儿歌； 去广告集成：腾讯视频、最右、钉钉、花生地铁、淘票票、智行火车、饿了么、天气通 Pro、AppCake;
+Author: ZhiHua Shen
+Name: AppsNoAd
+
+Package: com.zhihua.MyPingAnSteps
+Version: 0.1-1
+Architecture: iphoneos-arm
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: debs/com.zhihua.MyPingAnSteps_0.1-1_iphoneos-arm.deb
+Size: 58386
+MD5sum: 13ef8138931cee4644865d682c232a43
+SHA1: 0d6b9809cc8d328c5f95a6772b2a865f735caf16
+SHA256: 1ce72aba6ad6cff405a843aeab32bfb78515561389c2f19d4d5d776a2d911bcd
+Section: System
+Priority: optional
+Description: 针对平安金管家、平安健康的步数修改以及去广告；
+Author: ZhiHua Shen
+Name: MyPingAnSteps
+
