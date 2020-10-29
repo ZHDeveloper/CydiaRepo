@@ -1,0 +1,8 @@
+Origin: ZhiHua
+Label: ZhiHua的个人源
+Suite: stable
+Version: 0.1.1
+Codename: com.zhihua.debs
+Architectures: iphoneos-arm
+Components: main
+Description: ZhiHua的个人源
