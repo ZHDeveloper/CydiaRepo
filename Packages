@@ -15,14 +15,14 @@ Author: Alban Diquet <nabla.c0d3@gmail.com>
 Name: SSL Kill Switch 2
 
 Package: com.zhihua.AppsNoAd
-Version: 0.1-1
+Version: 0.1-2
 Architecture: iphoneos-arm
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: debs/com.zhihua.AppsNoAd_0.1-1_iphoneos-arm.deb
-Size: 34228
-MD5sum: b1718ecf898e3563db77c6126cc0c7f9
-SHA1: ececf93f4bb309f0e0f23eab1f11d05fb08fbe8a
-SHA256: 7403bdb2742750b09a4ab6e584bc8063ad5f3e7248f7a8e48b67470e95529884
+Filename: debs/com.zhihua.AppsNoAd_0.1-2_iphoneos-arm.deb
+Size: 35556
+MD5sum: 82643ddc333c5b8d7b2ed7abbbefc196
+SHA1: 826936dd1d483979f402e84132958a23760189d4
+SHA256: 83352fe72ba5d80bddca3b94ba9867aa33113aff6136235ff8ed7e28ca44e1ff
 Section: System
 Priority: optional
 Description: 破解会员：酷我音乐、番茄小说、贝瓦儿歌； 去广告集成：腾讯视频、最右、钉钉、花生地铁、淘票票、智行火车、饿了么、天气通 Pro、AppCake;
