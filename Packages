@@ -19,10 +19,10 @@ Version: 0.1-1
 Architecture: iphoneos-arm
 Depends: firmware (>= 5.0), mobilesubstrate
 Filename: debs/com.zhihua.AppsNoAd_0.1-1_iphoneos-arm.deb
-Size: 35550
-MD5sum: f9834d9bbf57af263cdff69636f63ff1
-SHA1: da82dc58c275eea8e163c0613205966cba1831eb
-SHA256: fbd3681fbc56b185bad9d0f02a30c2e898b5e8b7644be7cfee01a8eaf9317509
+Size: 37106
+MD5sum: 82d00c970b31a5592225bc1d981c360f
+SHA1: d05afdb71bd3f135ffee12007209c34f701c29d2
+SHA256: 2f8252747c07d9e480fba4c6267d0b16dd123aac53cfcbf07d032e820a7e819e
 Section: System
 Priority: optional
 Description: 破解会员：酷我音乐、番茄小说、贝瓦儿歌； 去广告集成：腾讯视频、最右、钉钉、花生地铁、淘票票、智行火车、饿了么、天气通 Pro、AppCake;
@@ -43,20 +43,4 @@ Priority: optional
 Description: 针对平安金管家、平安健康的步数修改以及去广告；
 Author: ZhiHua Shen
 Name: MyPingAnSteps
-
-Package: netskao.ntspeed
-Version: 0.2~beta7-1
-Architecture: iphoneos-arm
-Maintainer: Nets
-Installed-Size: 320
-Depends: mobilesubstrate, preferenceloader
-Filename: debs/netskao.ntspeed_0.2~beta7-1_iphoneos-arm.deb
-Size: 43520
-MD5sum: 55e3053357c1a13405e4d0b9a4135a20
-SHA1: 63700d0235140ba215181da87c3c01cd00e9eb88
-SHA256: 36ed8a0076eaa80d7761dc98433b699908a143a34e24044cedbfb682acd6dbf3
-Section: Netskao-插件
-Description: NtSpeed实时网络悬浮窗，简体中文汉化版，详情看预览图
-Author: julioverne
-Name: NtSpeed
 
