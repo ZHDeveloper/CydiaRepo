@@ -19,10 +19,10 @@ Version: 0.1-1
 Architecture: iphoneos-arm
 Depends: firmware (>= 5.0), mobilesubstrate
 Filename: debs/com.zhihua.AppsNoAd_0.1-1_iphoneos-arm.deb
-Size: 40348
-MD5sum: 7cd353f6587a1e385218e932d289d919
-SHA1: 22e65379d20efc59ab9510ff301a755fecf869af
-SHA256: 549ad1ece8c9495d23c2a77aa1dd29eb8f4f94f0d70b1d8a0a81b37dfb0d43ca
+Size: 47124
+MD5sum: ec84b7565a90dc5b4db27a8230f7cc3f
+SHA1: 2677aa8f44923d717bd8d148e411f1477ae70281
+SHA256: e399798803d9d22085f0f3149c275a6539fd03c21392b485d8b52ef92f99f534
 Section: System
 Priority: optional
 Description: 破解会员：酷我音乐、番茄小说、贝瓦儿歌； 去广告集成：腾讯视频、最右、钉钉、花生地铁、淘票票、智行火车、饿了么、天气通 Pro、AppCake;
