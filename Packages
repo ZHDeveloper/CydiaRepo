@@ -19,10 +19,10 @@ Version: 0.1-1
 Architecture: iphoneos-arm
 Depends: firmware (>= 5.0), mobilesubstrate
 Filename: debs/com.zhihua.AppsNoAd_0.1-1_iphoneos-arm.deb
-Size: 47472
-MD5sum: 867a6a01b47c0d0673fad3597d2083b7
-SHA1: 6826b4f4b23b1b3cb7a352f511fd03f715e0cef0
-SHA256: d21e669cb064cb9e87cd0ef9c9b3a2cc4ebbccbdb0ab697f88b17f56eee40538
+Size: 47742
+MD5sum: cec4a2f3430c95751d35ecfd40eb9cc9
+SHA1: ac43c9e4bb25d5f1731eb70dd002f129e0458fdc
+SHA256: 2ca2da16b59ebbfd5bcb41508ebf5e3cbb90907c89f941112bd3c34d6f0dbba5
 Section: System
 Priority: optional
 Description: 破解会员：酷我音乐、番茄小说、贝瓦儿歌； 去广告集成：腾讯视频、最右、钉钉、花生地铁、淘票票、智行火车、饿了么、天气通 Pro、AppCake;
@@ -34,10 +34,10 @@ Version: 0.1-1
 Architecture: iphoneos-arm
 Depends: firmware (>= 5.0), mobilesubstrate
 Filename: debs/com.zhihua.MyPingAnSteps_0.1-1_iphoneos-arm.deb
-Size: 59584
-MD5sum: 8c2b13d657f11ddfd91afcf4ed692017
-SHA1: 7879900e2fdbb4e7170414d85f2ee36b91d4b2fa
-SHA256: 9118b0aba13d554aaf3a1f758082775c751c756c11dd4113562270243af67db2
+Size: 60326
+MD5sum: c19a9bab614f4ad3a9059a556784e41e
+SHA1: b3a068bae6c7a9232d1fac41693959064c0eb592
+SHA256: 72e6af62886f9eb30973899d900bc033df23f7a6893f53a8957f7591c4c7a34b
 Section: System
 Priority: optional
 Description: 针对平安金管家、平安健康的步数修改以及去广告；
