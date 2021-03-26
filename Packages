@@ -34,10 +34,10 @@ Version: 0.1-1
 Architecture: iphoneos-arm
 Depends: firmware (>= 5.0), mobilesubstrate
 Filename: debs/com.zhihua.MyPingAnSteps_0.1-1_iphoneos-arm.deb
-Size: 60870
-MD5sum: c02353f3f3b97d651e6e14aff81097ef
-SHA1: d659550b2e8f459efd238b927b3aa6f40dea8d4a
-SHA256: 6059eee640f5d458395404c5e5578e31cce084fb2c9647c9050763d656c9bb19
+Size: 60852
+MD5sum: e91584142615442165f5ef6466c2adfc
+SHA1: 092ec182427c32748706a927f436a8b058f82ad5
+SHA256: c79e63067cc84efcac75b8714396709095629a8883ac8278c1dda2dedb13d9b2
 Section: System
 Priority: optional
 Description: 针对平安金管家、平安健康的步数修改以及去广告；
