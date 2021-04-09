@@ -44,3 +44,21 @@ Description: 针对平安金管家、平安健康的步数修改以及去广告�
 Author: ZhiHua Shen
 Name: MyPingAnSteps
 
+Package: re.frida.server
+Version: 12.11.18
+Architecture: iphoneos-arm
+Maintainer: Ole André Vadla Ravnås <oleavr@nowsecure.com>
+Installed-Size: 39364
+Conflicts: re.frida.server32, re.frida.server64
+Filename: debs/frida_12.11.18_iphoneos-arm.deb
+Size: 17849906
+MD5sum: dd24a27dadd0544e18f39d85f7d12ca1
+SHA1: 0e0cb1cdf9b232dcc6f376daa2b8cfcbab1287a3
+SHA256: e09f6f7778ce564c85d5ee49185174f9d1fcf408cfbdd1fdbce340c5a6333733
+Section: Development
+Priority: optional
+Homepage: https://www.frida.re/
+Description: Inject JavaScript to explore iOS apps over USB.
+Author: Frida Developers <oleavr@nowsecure.com>
+Name: Frida for pre-A12 devices
+
