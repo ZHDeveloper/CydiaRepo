@@ -44,6 +44,22 @@ Description: 针对平安金管家、平安健康的步数修改以及去广告�
 Author: ZhiHua Shen
 Name: MyPingAnSteps
 
+Package: netskao.youtubenoads
+Version: 1.1-1
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 352
+Depends: firmware (>= 11.0), mobilesubstrate
+Filename: debs/netskao.youtubenoads_1.1-1_iphoneos-arm.deb
+Size: 77654
+MD5sum: 1dbeba1e6da36f384ecb29b91486143c
+SHA1: aa0d268e9eea638e21e04da1008767fc3bb95cd1
+SHA256: 6dd84d1fe54fb312178985ca031e7830d273f8277747771997c8fb8421df049b
+Section: Netskao-NoAds
+Description: YouTube去除所有广告，开启后台播放音频
+Author: Netskao
+Name: YouTube NoAds
+
 Package: re.frida.server
 Version: 12.11.18
 Architecture: iphoneos-arm
